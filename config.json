@@ -1,0 +1,22 @@
+{
+ "calendars": [
+  {"url":"https://dav.yourdomain.com/remote.php/dav/calendars/<youruser>/<yourcalendar>/?export",
+   "user":"<username>",
+   "pass":"<password>",
+   "name":"<nameofcalendar>"},
+   {"url":"https://dav.yourdomain.com/remote.php/dav/calendars/<youruser>/<yourcalendar>/?export",
+   "user":"<username>",
+   "pass":"<password>",
+   "name":"<nameofcalendar>"}
+ ],
+ "contacts": [
+ {"url":"https://dav.yourdomain.com/remote.php/dav/addressbooks/users/<youruser>/<yourcontacts>/?export",
+   "user":"<username>",
+   "pass":"<password>",
+   "name":"<nameofcontacts>"},
+   {"url":"https://dav.yourdomain.com/remote.php/dav/addressbooks/users/<youruser>/<yourcontacts>/?export",
+   "user":"<username>",
+   "pass":"<password>",
+   "name":"<nameofcontacts>"}
+ ]
+}
