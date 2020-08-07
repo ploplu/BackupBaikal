@@ -14,6 +14,7 @@ Multiple calendars and contacts can be backuped. Files are stored in the same fo
 ## Configuration
 ```
 {
+ "destinationfolder": "Z:\\BaikalBackup\\",
  "calendars": [
   {"url":"https://dav.yourdomain.com/remote.php/dav/calendars/<youruser>/<yourcalendar>/?export",
    "user":"<username>",
