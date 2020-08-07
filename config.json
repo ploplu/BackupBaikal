@@ -1,4 +1,5 @@
 {
+ "destinationfolder": "Z:\\BaikalBackup\\",
  "calendars": [
   {"url":"https://dav.yourdomain.com/remote.php/dav/calendars/<youruser>/<yourcalendar>/?export",
    "user":"<username>",
